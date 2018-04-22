@@ -1,0 +1,74 @@
+.veronika{
+    height: 400px;
+    background: url('../bilde1/tabata1.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.BJJa{
+	height: 500px;
+    background: url('../bilde1/BJJaa.png') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+}
+a.back-to-top{
+ 	display: inline-block;
+ 	width: 50px;
+ 	height: 50px;
+ 	position: fixed;
+ 	bottom: 20px;
+ 	right: 20px;
+ 	background: green url('../bilde1/up_arrow.png')no-repeat center 43%;
+ 	text-indent:-9999px;
+ 	border-radius: 25px;
+ 	
+}
+.team-member {
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+a:hover.back-to-top{
+ 	background-color: #000;
+ }
+.header_image{
+    height: 300px;
+    background: url('../bilde1/stadion.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+ }
+ 
+.motivasjon{
+    height: 400px;
+    background: url('../bilde1/motivasjon4.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.styrke{
+    height: 400px;
+    background: url('../bilde1/styrke1.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
+.quidditch{
+    height: 400px;
+    background: url('../bilde1/quidditch22.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
